@@ -1,0 +1,6 @@
+{
+  "name": "slot-banjir69-proxy", // Replace with your desired worker name
+  "main": "workerjs/worker_rproxy.js",        // Ensure this path accurately points to your entry script
+  "compatibility_date": "2025-05-29", // Use a recent date; check Cloudflare docs for latest recommendations
+  "account_id": "56414eaed76fe2963ababc426fe8c76b" // Replace with your actual Cloudflare Account ID
+}
